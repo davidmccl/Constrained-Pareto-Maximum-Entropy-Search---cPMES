@@ -4,7 +4,7 @@ This repository contains the code associated with the paper titled **"Algorithmi
 
 ## Overview
 
-The goal of this project is to provide a reproducible implementation of cPMES. The framework is built upon a combination of Multi-Objective Bayesian Optimization (BO) and the Multi-Type Mean-Field Reinforcement Learning algorithm to tackle the problem of efficient contract design with Reinforcement Learning agents.
+The goal of this project is to provide a reproducible implementation of cPMES. The framework is built upon a combination of Multi-Objective Bayesian Optimization (BO) and the Multi Type Mean Field Reinforcement Learning algorithm to tackle the problem of efficient contract design with Reinforcement Learning agents.
 
 ## Repository Structure
 
